@@ -1,0 +1,13 @@
+# sobre mim **Yasmin**
+- 👋 **Olá, eu sou @yasfzzk**
+- 👀 Eu estou interessado em aprender novas linguagens de programação
+- 🌱 Eu estou recentemente aprendendo a programar na linguagem de java script e scratch
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+yasfzzk/yasfzzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
